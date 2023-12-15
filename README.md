@@ -1,4 +1,4 @@
-# Hack Together: The Great .NET 8 Hack
+# Hack Together: The AI Chat App Hack
 
 ![dotnet hack together banner (1)](https://github.com/microsoft/hack-together-dotnet/assets/45178151/6b34a40e-27d1-4b6c-8604-f45aceb9877e)
 
@@ -6,11 +6,13 @@
 
 ## Introduction
 
-🛠️Build, innovate, and **#HackTogether**!🛠️ It's time to get started building apps with .NET 8. 🔥
+🛠️ Build, innovate, and **#HackTogether**!🛠️ It's time to get started building your first AI Chat App, using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
 
-Hack Together is your playground for coding and experimenting with .NET. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build apps based on some of the most exciting .NET scenarios today - AI and cloud-native! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+GPT models are powerful language generators, but they don't know everything about the world. RAG (Retrieval Augmented Generation) combines the power of GPT with the knowledge of a search engine. This allows you to ask questions of your own data, and get answers that are relevant to the context of your question. We'll show you how to build a RAG Chat App using Azure OpenAI, Azure AI Search, and Python, and extend it for your own data sources.
 
-The hackathon starts on **November 20th** right after .NET Conf and ends on **December 4th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+Hack Together is your playground for coding and experimenting with RAG Chat Apps. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build apps using the most exciting technology - LLMs and vector search databases! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+
+The hackathon starts on **January 29th**  and ends on **February 12**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
 ## Hack Together Roadmap 🗺️
 
@@ -53,67 +55,49 @@ There will be a grand prize winner out of all projects as well as a 'Best Intell
 
 We'd love to hear about your project, tell us what you are working on!
 
-## Samples to get inspired ✨
+## Code samples to get you started ✨
 
-If you are looking for scenarios or project ideas to get inspired, we have many samples available for you to explore! Check out below repositories to discover what you can build and get some inspiration for your hack!
+Most of our live streams will showcase this app solution, which uses a Python backend and React frontend:
+
+[https://github.com/Azure-Samples/azure-search-openai-demo/](https://github.com/Azure-Samples/azure-search-openai-demo/)
+
+However, you are free to use any language or framework you like, as long as you make an AI RAG Chat App using at least one Azure service.
+
+To find more samples, check out the following resources:
+
+* [Azure AI samples (Python)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=python)
+* [Azure AI samples (JavaScript)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=javascript)
+* [Azure AI samples (Java)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=java)
+* [Azure AI samples (C#)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
+* [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
+
+
+## Recommended learning materials 📚
 
 ### AI
 
-* [ConsoleGPT](https://github.com/aaronpowell/ConsoleGPT) - .NET Console demos for a chat experience using Azure OpenAI
-* [Image Generation sample](https://github.com/aaronpowell/GenerateAndChill) - Generate images with DALL-E, it also supports non-English language prompts through translations
-* [Chat with your own data](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - An application using the RAG (Retrieval Augmented Generation) pattern to allow you to ask questions of your own data
-
-### Cloud Native
-
-* [The brand new eShop reference app!](https://github.com/dotnet/eshop)
-* [Aspire Samples](https://github.com/dotnet/aspire-samples)
-* [Aspire YouTube Summariser](https://github.com/devkimchi/aspire-youtube-summariser)
-
-## Recommended Learning Materials 📚
-
-### AI
-
+* [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
+* [Cloud skills challenge: Using Azure OpenAI Service](https://learn.microsoft.com/collections/20mirj4odnj6o)
 * [Generative AI for Beginners](https://aka.ms/genai-beginners)
 * [Fundamentals of Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/)
-* [Generate text and conversations with .NET and Azure OpenAI Completions](https://learn.microsoft.com/training/modules/open-ai-dotnet-text-completions/)
-* [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/)
+* [Retrieval Augmented Generation in Azure AI Search](https://learn.microsoft.com/azure/search/retrieval-augmented-generation-overview)
+* [OpenAI documentation](https://platform.openai.com/docs/introduction)
+* [Azure AI Search](https://learn.microsoft.com/azure/search/search-what-is-azure-search)
+* [Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/overview)
+* [Comparing Azure OpenAI and OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/overview#comparing-azure-openai-and-openai/)
 
-### Cloud Native
-
-* [Hands-on learning - Create Microservices with .NET and ASP.NET Core](https://learn.microsoft.com/training/paths/create-microservices-with-dotnet)
-* [Architecting cloud native .NET apps with Azure](https://learn.microsoft.com/dotnet/architecture/cloud-native/)
-* [.NET and Azure e-books](https://dotnet.microsoft.com/learn/azure/architecture)
-* [.NET Aspire](https://aka.ms/dotnet-aspire)
 
 ## Judging and Prizes 🏆
 
-Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
-The winning teams will receive the following exciting prizes (up to 3 individuals if submitting as a team, prizes distributed per team). Winning solutions and/or product feedback may also be considered for integration into the .NET roadmap. Winners will also have the opportunity to showcase their projects to experts and leaders on the .NET YouTube channel.
+Each winning team in the categories below will receive a cash price of $500. 💸
 
-**🏆 Grand Prize winner:** _The best of the best! This category rewards the solution that meets all judging criteria, wows judges, and has potential real-world value._
-
-* $500 cash prize per individual (up to 3 if entering as a team) 💸
-
-**🥇 Best Intelligent Apps solution:**
-
-* $500 cash prize 💸
-
-**🥇 Best Cloud Native solution:**
-
-* $500 cash prize 💸
+* **Best overall**: The best app will combine both a compelling data source and significant refinements to the RAG flow to improve the user experience and LLM answer quality.
+* **Best use of GPT-4-vision**: Showcase how LLMs can help answer questions about image-heavy data sources.
+* **Best data source**: Bring in a data source that makes for such a compelling chat that we wonder how we ever survived without it.
+* **Best in your own language**: Show us a RAG Chat App that uses non-English data sources. Bonus points for documenting any improvements you had to make to improve search and LLM performance for your app's language.
+* **Best open-source contribution**: Submit a pull request that improves the [primary repository](https://github.com/Azure-Samples/azure-search-openai-demo/). Consider which issues are already filed and which changes are generally helpful for all RAG chat apps. We will not necessarily merge all pull requests, but we love to see contributions.
+* **Most helpful community member**: We're looking for hackers that are super engaged in the streams, answering other participant's questions in the forums and issue trackers, and are generally bringing good vibes to our Hack Together. 🥰
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
-
->**ℹ️ Hack Together winners will be selected as per the following judging criteria:**
->
->1. Innovation
->2. Impact
->3. Technical Usability/User Experience
->4. Alignment with hackathon category (either Intelligent Apps or Cloud Native)
-
-> **ℹ️ Additional cash prize info**
-> - One (1) Grand Prize winner (up to 3 individuals if submitting as a team). The individuals on the Grand Prize winning team will each receive a $500 cash prize and a digital Credly badge. Approximate Retail Value (ARV)
-$500 per individual, up to $1500 total for a team of three
-> - One (1) Best Cloud-Native winner (up to 3 individuals if submitting as a team). The Best Cloud-Native winning team will receive a $500 cash prize to evenly split amongst team members and a digital Credly badge. Approximate Retail Value (ARV) $500 per team
-> - One (1) Best Intelligent App winner (up to 3 individuals if submitting as a team). The Best Intelligent App winning team will receive a $500 cash prize to evenly split amongst team members and a digital Credly badge. Approximate Retail Value (ARV) $500 per team
