@@ -1,6 +1,6 @@
 # Hack Together: The AI Chat App Hack
 
-![# Hack Together: The AI Chat App Hack](Python Hack Banner 4.png)
+![# Hack Together: The AI Chat App Hack](https://github.com/microsoft/Python-Chatbot/blob/main/Python%20Hack%20Banner%204.png))
 
 
 ## Introduction
