@@ -15,7 +15,7 @@ The hackathon starts on **January 29th**  and ends on **February 12**. It is rec
 
 ## Hack Together Roadmap 🗺️
 
-![dotnet hack roadmap (2)](https://github.com/microsoft/hack-together-dotnet/assets/45178151/dd535d27-eb67-4aff-bd69-e0120c3309ff)
+![AI Chat App Hack Roadmap (2)](https://github.com/microsoft/AI-Chat-App-Hack/blob/main/Chat%20App%20roadmap.png)
 
 Follow the steps below to successfully complete the hackathon.
 
