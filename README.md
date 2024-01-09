@@ -1,6 +1,6 @@
 # Hack Together: The AI Chat App Hack
 
-![# Hack Together: The AI Chat App Hack](https://github.com/microsoft/AI-Chat-App-Hack/blob/main/Python%20Hack%20Banner.png)
+![# Hack Together: The AI Chat App Hack](https://github.com/microsoft/AI-Chat-App-Hack/blob/main/Python%20Hack%20Banner%201a.png)
 
 
 ## Introduction
@@ -27,7 +27,7 @@ Follow the steps below to successfully complete the hackathon.
 
 **Planning on hacking with Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. But we do ask you to use this privilege responsibly! [Fill out this form](https://aka.ms/hacktogether/dotnet/AzureOpenAIAccess) to apply. Then look for an email from `DoNotReply@hacktogether.net` within 1 business day. While you're waiting, [check out the instructions](./OPENAI-README.md) on what to do when you get access.
 
-> Note: The key will be activated when the hackathon starts on November 20.
+> Note: The key will be activated when the hackathon starts on January 29th.
 
 ### #01 - Start hacking on January 29th
 
@@ -47,16 +47,13 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 * **Wed 2/7/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Special Topic](https://aka.ms/hacktogether/dotnet/session4)
 * **Thu 2/8/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App](https://aka.ms/hacktogether/dotnet/session4)
 
-### #03 - Submit your project until December 4th 23:59 PM PST
+### #03 - Submit your project anytime before February 12th 23:59 PM PST
 
 You may submit your project here when it's ready: **🚀 [Project Submission](https://github.com/microsoft/AI-Chat-App-Hack/issues/new)**
 
 Check out this video for step by step project submission guidance:
 **[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
-There will be a grand prize winner out of all projects as well as a 'Best Intelligent Apps solution' and 'Best Cloud Native solution,' so it is worthwhile to align your hack to one of these categories.
-
-We'd love to hear about your project, tell us what you are working on!
 
 ## Code samples to get you started ✨
 
