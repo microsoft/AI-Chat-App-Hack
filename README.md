@@ -21,7 +21,7 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
 
-**Register to Hack Together:** https://aka.ms/hacktogether/dotnet/register
+**Register to Hack Together:** [Register Here](https://aka.ms/hacktogether/chatapp/register)
 
 **Introduce yourself**, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together-dotnet/discussions/4#discussion-5776970)
 
@@ -31,17 +31,21 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #01 - Start hacking on November 20th
 
-Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together](https://aka.ms/hacktogether/dotnet/register) before starting to build your project.
+Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together]([https://aka.ms/hacktogether/chatapp/register]) before starting to build your project.
 
 ### #02 - Join live sessions for learning and inspiration
 
 [![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://aka.ms/hacktogether/dotnet/sessions)
 
-* **November 20th @ 2 PM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Welcome and what's new in .NET 8 with Aaron Powell, Matt Soucoup and Gaurav Seth](https://aka.ms/hacktogether/dotnet/session1)
-* **November 22nd @ 9 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Hack Together .NET - Build Generative AI apps with Open AI with Chris Noring](https://aka.ms/hacktogether/dotnet/session_nov22)
-* **November 27th @ 11 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Generative AI for the .NET developer with Matt Soucoup and Diego Colombo](https://aka.ms/hacktogether/dotnet/session2)
-* **November 28th @ 4 PM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** .NET 8 - [Your stack for building Cloud Native apps with Justin Yoo, Jorge Arterio and Paul Yu](https://aka.ms/hacktogether/dotnet/session3)
-* **December 4th @ 3 PM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Wrap up with special guest stars](https://aka.ms/hacktogether/dotnet/session4)
+* **Mon 1/29/2024 12:00PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python](https://aka.ms/hacktogether/dotnet/session1)
+* **Tue 1/30/2024 11:30AM PST  [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Customizing your RAG Chat App](https://aka.ms/hacktogether/dotnet/session_nov22)
+* **Wed 1/31/2024 3:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Azure AI Search Best Practices](https://aka.ms/hacktogether/dotnet/session2)
+* **Thu 2/1/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** [GPT-4 with Vision](https://aka.ms/hacktogether/dotnet/session3)
+* **Mon 2/5/2024 9:00 AM [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Web Components](https://aka.ms/hacktogether/dotnet/session4)
+* **Mon 2/5/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Access Control in RAG Chat Apps](https://aka.ms/hacktogether/dotnet/session4)
+* **Tue 2/6/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Evaluating a RAG Chat App](https://aka.ms/hacktogether/dotnet/session4)
+* **Wed 2/7/2024 6:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Special Topic](https://aka.ms/hacktogether/dotnet/session4)
+* **Thu 2/8/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App](https://aka.ms/hacktogether/dotnet/session4)
 
 ### #03 - Submit your project until December 4th 23:59 PM PST
 
