@@ -25,9 +25,7 @@ Follow the steps below to successfully complete the hackathon.
 
 **Introduce yourself**, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/AI-Chat-App-Hack/discussions)
 
-**Planning on hacking with Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. But we do ask you to use this privilege responsibly! [Fill out this form](https://aka.ms/hacktogether/dotnet/AzureOpenAIAccess) to apply. Then look for an email from `DoNotReply@hacktogether.net` within 1 business day. While you're waiting, [check out the instructions](./OPENAI-README.md) on what to do when you get access.
-
-> Note: The key will be activated when the hackathon starts on January 29th.
+**Apply for Azure OpenAI access**: Request access with [this form](https://aka.ms/oaiapply). If your access request isn't approved, you can instead use [OpenAI public API](https://platform.openai.com/docs/api-reference/introduction) or a local LLM.
 
 ### #01 - Start hacking on January 29th
 
@@ -94,10 +92,10 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 Each winning team in the categories below will receive a cash price of $500. 💸
 
 * **Best overall**: The best app will combine both a compelling data source and significant refinements to the RAG flow to improve the user experience and LLM answer quality.
-* **Best use of GPT-4-vision**: Showcase how LLMs can help answer questions about image-heavy data sources.
+<!-- * **Best use of GPT-4-vision**: Showcase how LLMs can help answer questions about image-heavy data sources.-->
 * **Best data source**: Bring in a data source that makes for such a compelling chat that we wonder how we ever survived without it.
 * **Best in your own language**: Show us a RAG Chat App that uses non-English data sources. Bonus points for documenting any improvements you had to make to improve search and LLM performance for your app's language.
-* **Best open-source contribution**: Submit a pull request that improves the [primary repository](https://github.com/Azure-Samples/azure-search-openai-demo/). Consider which issues are already filed and which changes are generally helpful for all RAG chat apps. We will not necessarily merge all pull requests, but we love to see contributions.
-* **Most helpful community member**: We're looking for hackers that are super engaged in the streams, answering other participant's questions in the forums and issue trackers, and are generally bringing good vibes to our Hack Together. 🥰
+<!-- * **Best open-source contribution**: Submit a pull request that improves the [primary repository](https://github.com/Azure-Samples/azure-search-openai-demo/). Consider which issues are already filed and which changes are generally helpful for all RAG chat apps. We will not necessarily merge all pull requests, but we love to see contributions.-->
+* **Most helpful community member**: We're looking for hackers that are super engaged in the streams, answering other participant's questions in the forums and issue trackers, contributing code improvements, and are generally bringing good vibes to our Hack Together. 🥰
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
