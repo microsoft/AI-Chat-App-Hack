@@ -11,7 +11,7 @@ GPT models are powerful language generators, but they don't know everything abou
 
 Hack Together is your playground for coding and experimenting with RAG Chat Apps. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build apps using the most exciting technology - LLMs and vector search databases! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
-The hackathon starts on **January 29th**  and ends on **February 12**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+The hackathon starts on **January 29th**  and ends on **February 12th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
 ## Hack Together Roadmap 🗺️
 
