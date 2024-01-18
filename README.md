@@ -31,21 +31,36 @@ Follow the steps below to successfully complete the hackathon.
 
 Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together]([https://aka.ms/hacktogether/chatapp/register]) before starting to build your project.
 
-### #02 - Join live sessions for learning and inspiration
+### #02 - Join the English language live sessions for learning, inspiration, and lots of fun!
 
 [![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://aka.ms/hacktogether/dotnet/sessions)
 
-* **Mon 1/29/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python](https://aka.ms/hacktogether/dotnet/session1)
-* **Tue 1/30/2024 9:30 AM PST  [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Customizing your RAG Chat App](https://aka.ms/hacktogether/dotnet/session_nov22)
-* **Wed 1/31/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Azure AI Search Best Practices](https://aka.ms/hacktogether/dotnet/session2)
-* **Thu 2/1/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** [GPT-4 with Vision](https://aka.ms/hacktogether/dotnet/session3)
-* **Mon 2/5/2024 7:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Web Components](https://aka.ms/hacktogether/dotnet/session4)
-* **Mon 2/5/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Access Control in RAG Chat Apps](https://aka.ms/hacktogether/dotnet/session4)
-* **Tue 2/6/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Evaluating a RAG Chat App](https://aka.ms/hacktogether/dotnet/session4)
-* **Wed 2/7/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Special Topic](https://aka.ms/hacktogether/dotnet/session4)
-* **Thu 2/8/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App](https://aka.ms/hacktogether/dotnet/session4)
+* **Mon 1/29/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python]()
+* **Tue 1/30/2024 9:30 AM PST  [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Customizing your RAG Chat App]()
+* **Wed 1/31/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Azure AI Search Best Practices]()
+* **Thu 2/1/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** [GPT-4 with Vision]()
+* **Mon 2/5/2024 7:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Web Components]()
+* **Mon 2/5/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Access Control in RAG Chat Apps]()
+* **Tue 2/6/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Evaluating a RAG Chat App]()
+* **Wed 2/7/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Special Topic]()
+* **Thu 2/8/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App]()
 
-### #03 - Submit your project anytime before February 12th 23:59 PM PST
+### #03 - Also, don’t miss out on our amazing regional live sessions!
+
+**Hack Together - The AI Chat App Hack en Español:**
+* **Wed 1/31/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #1]()
+* **Fri 2/2/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #2]()
+
+**Hack Together - The AI Chat App Hack em Português:**
+* **Mon 2/5/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #1](https://aka.ms/hacktogether/chatapp/portuguese/session1)
+* **Tue 2/6/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #2](https://aka.ms/hacktogether/chatapp/portuguese/session2)
+
+**Hack Together - 人工智能聊天应用程序黑客 (Chinese):**
+* **Mon 1/29/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Chinese Session #1]()
+* **Fri 2/2/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Chinese Session #2]()
+
+
+### #04 - Submit your project anytime before February 12th 23:59 PM PST
 
 You may submit your project here when it's ready: **🚀 [Project Submission](https://github.com/microsoft/AI-Chat-App-Hack/issues/new)**
 
