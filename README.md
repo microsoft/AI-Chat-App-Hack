@@ -1,6 +1,6 @@
 # Hack Together: The AI Chat App Hack
 
-![# Hack Together: The AI Chat App Hack](https://github.com/microsoft/AI-Chat-App-Hack/blob/main/Python%20Hack%20Banner%202.png)
+![# Hack Together: The AI Chat App Hack](./media/Python%20Hack%20Banner%202.png)
 
 
 ## Introduction
@@ -15,7 +15,7 @@ The hackathon starts on **January 29th**  and ends on **February 12th**. It is r
 
 ## Hack Together Roadmap 🗺️
 
-![AI Chat App Hack Roadmap (2)](https://github.com/microsoft/AI-Chat-App-Hack/blob/main/Chat%20App%20roadmap.png)
+![AI Chat App Hack Roadmap (2)](./media/Chat%20App%20roadmap.png)
 
 Follow the steps below to successfully complete the hackathon.
 
