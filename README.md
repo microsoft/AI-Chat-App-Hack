@@ -98,6 +98,7 @@ To find more samples, check out the following resources:
 * [Azure AI Search](https://learn.microsoft.com/azure/search/search-what-is-azure-search)
 * [Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/overview)
 * [Comparing Azure OpenAI and OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/overview#comparing-azure-openai-and-openai/)
+* [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 
 
 ## Judging and Prizes 🏆
