@@ -94,6 +94,7 @@ To find more samples, check out the following resources:
 * [Generative AI for Beginners](https://aka.ms/genai-beginners)
 * [Fundamentals of Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/)
 * [Retrieval Augmented Generation in Azure AI Search](https://learn.microsoft.com/azure/search/retrieval-augmented-generation-overview)
+* [Workshop - Create your own ChatGPT with Retrieval-Augmented-Generation](https://aka.ms/ws/openai-rag)
 * [OpenAI documentation](https://platform.openai.com/docs/introduction)
 * [Azure AI Search](https://learn.microsoft.com/azure/search/search-what-is-azure-search)
 * [Azure OpenAI Service](https://learn.microsoft.com/azure/cognitive-services/openai/overview)
