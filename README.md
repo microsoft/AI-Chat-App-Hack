@@ -104,6 +104,8 @@ To find more samples, check out the following resources:
 * [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
 
+* [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
+
 ## Judging and Prizes 🏆
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
