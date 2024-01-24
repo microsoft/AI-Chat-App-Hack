@@ -103,7 +103,6 @@ To find more samples, check out the following resources:
 * [Comparing Azure OpenAI and OpenAI](https://learn.microsoft.com/azure/cognitive-services/openai/overview#comparing-azure-openai-and-openai/)
 * [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
-
 * [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
 
 ## Judging and Prizes 🏆
