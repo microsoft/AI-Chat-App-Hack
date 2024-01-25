@@ -33,7 +33,7 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 
 ### #02 - Join the English language live sessions for learning, inspiration, and lots of fun!
 
-[![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://aka.ms/hacktogether/dotnet/sessions)
+[![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)]()
 
 * **Mon 1/29/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python](https://aka.ms/hacktogether/chatapp/session1)
 * **Mon 1/29/2024 3:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Connecting a RAG Chat App to Azure Cosmos DB](https://aka.ms/hacktogether/chatapp/session2)
