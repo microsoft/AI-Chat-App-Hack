@@ -35,6 +35,8 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 
 [![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://1drv.ms/u/s!AtTck50FZEppgrweyAUWYJ-wyeVU_g?e=a2JysE)
 
+**Here is a playlist of all the completed sessions: [YouTube Playlist](https://www.youtube.com/playlist?list=PL5lwDBUC0ag6_dGZst5m3G72ewfwXLcXV)**
+
 * **Mon 1/29/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python](https://aka.ms/hacktogether/chatapp/session1) ([Slides](https://speakerdeck.com/pamelafox/ai-chat-app-hack-building-a-rag-chat-app))
 * **Mon 1/29/2024 3:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Connecting a RAG Chat App to Azure Cosmos DB](https://aka.ms/hacktogether/chatapp/session2) ([Slides](https://speakerdeck.com/kmodi/connecting-a-rag-chat-app-to-azure-cosmos-db))
 * **Tue 1/30/2024 9:30 AM PST  [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Customizing your RAG Chat App](https://aka.ms/hacktogether/chatapp/session3) ([Slides](https://speakerdeck.com/pamelafox/customizing-your-rag-chat-app))
