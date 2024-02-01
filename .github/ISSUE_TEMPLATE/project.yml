@@ -17,21 +17,21 @@ body:
     validations:
       required: true
   - type: input
-    id: description
+    id: description_lan
     attributes:
       label: Language
       description: What language does your chat app use? (English, Spanish, Portuguese, Chinese, etc.)
     validations:
       required: true
   - type: input
-    id: url
+    id: url_repo
     attributes:
       label: Project Repository URL
       description: URL of the GitHub repo with your project
     validations:
       required: true
   - type: input
-    id: url
+    id: url_endpoint
     attributes:
       label: Deployed Endpoint URL
       description: URL of a deployed endpoint (if it can be publicly shared, not for private data)
