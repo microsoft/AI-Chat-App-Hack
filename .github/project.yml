@@ -13,7 +13,14 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your project. What is it about? What type of app have you built? What is it doing? What problem is it solving?
+      description: Provide a short description of your AI chat app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Language
+      description: What language does your chat app use? (English, Spanish, Portuguese, Chinese, etc.)
     validations:
       required: true
   - type: input
@@ -23,6 +30,13 @@ body:
       description: URL of the GitHub repo with your project
     validations:
       required: true
+  - type: input
+    id: url
+    attributes:
+      label: Deployed Endpoint URL
+      description: URL of a deployed endpoint (if it can be publicly shared, not for private data)
+    validations:
+      required: false
   - type: input
     id: video
     attributes:
