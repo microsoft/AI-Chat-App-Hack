@@ -47,7 +47,9 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 * **Tue 2/6/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Evaluating a RAG Chat App](https://aka.ms/hacktogether/chatapp/session8)
 * **Wed 2/7/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Chat Completion API Tools & Functions in RAG Chat Apps](https://aka.ms/hacktogether/chatapp/session9)
 * **Thu 2/8/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App](https://aka.ms/hacktogether/chatapp/session10)
-* **Mon 2/12/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Project Showcase](https://aka.ms/hacktogether/chatapp/session11)
+* **Fri 2/9/2024 9:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Content Safety for Azure OpenAI]()
+* **Fri 2/9/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Building a Chat on your Business Data without writing a line of code]()
+* **Mon 2/12/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Project Showcase](https://aka.ms/hacktogether/chatapp/session13)
 
 ### #03 - Also, don’t miss out on our amazing regional live sessions!
 
@@ -66,7 +68,7 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 
 ### #04 - Submit your project anytime before February 12th 23:59 PM PST
 
-You may submit your project here when it's ready: **🚀 [Project Submission](https://github.com/microsoft/AI-Chat-App-Hack/issues/new)**
+You may submit your project here when it's ready: **🚀 [Project Submission](https://github.com/microsoft/AI-Chat-App-Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
 Check out this video for step by step project submission guidance:
 **[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
