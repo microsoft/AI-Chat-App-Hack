@@ -51,13 +51,13 @@ body:
       description: Comma-separated list of GitHub users who worked on this project
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: showcase
     attributes:
       label: Showcase Consent
       description: Do we have your consent to highlight this project during the Project Showcase session on 2/12? Not all projects are guaranteed to be highlighted!
       options:
-        - label: Yes
-        - label: No
+        - "Yes"
+        - "No"
     validations:
       required: true
