@@ -51,7 +51,7 @@ body:
       description: Comma-separated list of GitHub users who worked on this project
     validations:
       required: true
-  - type: dropdown
+  - type: radio
     id: showcase
     attributes:
       label: Showcase Consent
