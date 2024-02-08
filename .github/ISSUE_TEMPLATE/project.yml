@@ -57,7 +57,7 @@ body:
       label: Showcase Consent
       description: Do we have your consent to highlight this project during the Project Showcase session on 2/12? Not all projects are guaranteed to be highlighted!
       options:
-        - "Yes"
         - "No"
+        - "Yes"
     validations:
       required: true
