@@ -54,16 +54,17 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 ### #03 - Also, don’t miss out on our amazing regional live sessions!
 
 **Hack Together - The AI Chat App Hack en Español:**
-* **Wed 1/31/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #1](https://developer.microsoft.com/pt-br/reactor/events/21651/)
-* **Fri 2/2/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #2](https://developer.microsoft.com/pt-br/reactor/events/21652/)
+* **Wed 1/31/2024 9:00 PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #1](https://developer.microsoft.com/pt-br/reactor/events/21651/)
+* **Fri 2/2/2024 9:00 PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #2](https://developer.microsoft.com/pt-br/reactor/events/21652/)
 
 **Hack Together - The AI Chat App Hack em Português:**
 * **Mon 2/5/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #1](https://aka.ms/hacktogether/chatapp/portuguese/session1)
 * **Tue 2/6/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #2](https://aka.ms/hacktogether/chatapp/portuguese/session2)
 
 **Hack Together - 人工智能聊天应用程序黑客 (Chinese):**
-* **Mon 1/29/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244)**
-* **Fri 2/2/2024 TBA PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244)**
+
+* **Mon 1/29/2024** [Session #1](https://www.bilibili.com/video/BV1ay421a77h/)
+* **Fri 2/2/2024** [Session #2](https://www.bilibili.com/video/BV1Bv421C7Dv/)
 
 
 ### #04 - Submit your project anytime before February 12th 23:59 PM PST
